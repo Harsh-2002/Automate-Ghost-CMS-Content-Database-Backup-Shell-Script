@@ -17,7 +17,7 @@ This script automates the backup process for a Ghost blogging platform instance,
 - **Slack Webhook URL**: Set up a Slack webhook URL to receive notifications.
 
 
-### Here's a breakdown of its functionalities:
+### Here's a breakdown of the shell script functionalities:
 
 1. **Setting Variables**: The script defines various variables such as directories for content and database backups, Slack webhook URL for notifications, Docker container name, maximum number of backups to retain, and remote storage destination.
 
