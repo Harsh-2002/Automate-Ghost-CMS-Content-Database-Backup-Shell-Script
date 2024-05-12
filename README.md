@@ -2,6 +2,9 @@
 
 This script automates the backup process for a Ghost blogging platform instance, including content and database backups, and syncing with remote storage. It's designed to be run on a Linux server where the Ghost instance is hosted.
 
+![Image 1](https://i.ibb.co/hc2JFn1/image1.png)
+![Image 2](https://i.ibb.co/ssWwWCd/image2.png)
+
 ## Usage
 1. Clone the repository to your server.
 2. Modify the script and replace placeholder values with appropriate paths and credentials.
