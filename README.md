@@ -4,6 +4,9 @@ This script automates the backup process for a Ghost blogging platform instance,
 
 <a href="https://ibb.co/hc2JFn1"><img src="https://i.ibb.co/r35R2Lf/Shots-create-mockups.png" alt="Shots-create-mockups" border="0" /></a>
 
+
+<a href="https://ibb.co/ssWwWCd"><img src="https://i.ibb.co/xzFjFYt/Shots-create-mockups-1.png" alt="Shots-create-mockups-1" border="0"></a>
+
 ## Usage
 1. Clone the repository to your server.
 2. Modify the script and replace placeholder values with appropriate paths and credentials.
