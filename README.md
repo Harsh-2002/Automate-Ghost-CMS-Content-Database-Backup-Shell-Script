@@ -2,8 +2,8 @@
 
 This script automates the backup process for a Ghost blogging platform instance, including content and database backups, and syncing with remote storage. It's designed to be run on a Linux server where the Ghost instance is hosted.
 
-<img src="https://firstfinger.in/content/images/size/w1600/2024/05/Shots-create-mockups.png" alt="Bash Script" width="70%">
-<img src="https://firstfinger.in/content/images/2024/05/Shots-create-mockups--1-.png" alt="Slack Notification" width="70%">
+<img src="https://firstfinger.in/content/images/size/w1600/2024/05/Shots-create-mockups.png" alt="Bash Script" width="80%">
+<img src="https://firstfinger.in/content/images/2024/05/Shots-create-mockups--1-.png" alt="Slack Notification" width="80%">
 
 ## Usage
 1. Clone the repository to your server.
