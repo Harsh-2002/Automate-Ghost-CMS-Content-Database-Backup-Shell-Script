@@ -6,7 +6,7 @@ This script automates the backup process for a Ghost blogging platform instance,
 1. Clone the repository to your server.
 2. Modify the script and replace placeholder values with appropriate paths and credentials.
 3. Run `chmod u+x ghost-content-database-backup.sh `
-4. Run the script using Bash: `bash ghost-content-database-backup.sh`.
+4. Run the script using Bash: `bash ghost-content-database-backup.sh`
 5. Adjust the `MAX_BACKUPS` variable to set the maximum number of backups to retain. The script will automatically delete old backups of content and database, ensuring efficient use of storage space.
 
 ## Prerequisites
